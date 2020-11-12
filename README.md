@@ -4,11 +4,11 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 Here's a picture of the three different Iris types:
 
-- Iris_setosa<img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg" width="300" height="300">
+- Iris_setosa <img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg" width="300" height="300">
 
-![Iris_versicolor]<img src="http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg" width="300" height="300">
+- Iris_versicolor <img src="http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg" width="300" height="300">
 
-![Iris_virginica]<img src="http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg" width="300" height="300">
+- Iris_virginica <img src="http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg" width="300" height="300">
 
 
 The iris dataset contains measurements for 150 iris flowers from three different species.
